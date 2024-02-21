@@ -1,3 +1,2 @@
 # Assembly-code
-
-A collection of Assembly Language example programs.
+A collection of Assembly Language (Marie) examples.
